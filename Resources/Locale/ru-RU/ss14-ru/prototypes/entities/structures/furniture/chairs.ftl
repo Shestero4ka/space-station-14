@@ -1,5 +1,13 @@
 ent-SeatBase = стул
     .desc = Вы сидите в нём. Либо по вашей воле, либо по принуждению.
+ent-UnanchoredChairBase = chair
+    .desc = { ent-SeatBase.desc }
+ent-ChairBase = chair
+    .desc = { ent-UnanchoredChairBase.desc }
+ent-OfficeChairBase = chair
+    .desc = { ent-UnanchoredChairBase.desc }
+ent-StoolBase = stool
+    .desc = { ent-OfficeChairBase.desc }
 ent-Chair = стул
     .desc = { ent-SeatBase.desc }
 ent-ChairGreyscale = стул
