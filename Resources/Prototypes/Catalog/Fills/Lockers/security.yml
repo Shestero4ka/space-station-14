@@ -135,6 +135,7 @@
       - id: DrinkDetFlask
       - id: ClothingHandsGlovesForensic
       - id: BookBusido # Corvax-Books
+      - id: RubberStampDetective
       - id: HoloprojectorSecurity
       - id: BoxEvidenceMarkers
 
